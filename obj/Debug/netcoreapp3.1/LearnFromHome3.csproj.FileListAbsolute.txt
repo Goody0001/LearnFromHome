@@ -1,0 +1,13 @@
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\bin\Debug\netcoreapp3.1\LearnFromHome3.exe
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\bin\Debug\netcoreapp3.1\LearnFromHome3.deps.json
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\bin\Debug\netcoreapp3.1\LearnFromHome3.runtimeconfig.json
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\bin\Debug\netcoreapp3.1\LearnFromHome3.runtimeconfig.dev.json
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\bin\Debug\netcoreapp3.1\LearnFromHome3.dll
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\bin\Debug\netcoreapp3.1\LearnFromHome3.pdb
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.csprojAssemblyReference.cache
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.csproj.CoreCompileInputs.cache
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.AssemblyInfoInputs.cache
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.AssemblyInfo.cs
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.dll
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.pdb
+C:\Users\Oghale Goodness\Desktop\software\VSCode-win32-x64-1.44.2\LearnFromHome3\obj\Debug\netcoreapp3.1\LearnFromHome3.genruntimeconfig.cache
